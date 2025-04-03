@@ -4,9 +4,11 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        primary: {
-          green: "#4CAF50", // Jiji-inspired green
-          blue: "#2196F3", // OLX-inspired blue
+        greenk: "#447cf4", // Jiji-inspired green
+        primeblue: "#1cac1c", // OLX-inspired blue
+
+        secondry: {
+          funnyblue: "#3094f8",
         },
       },
     },
