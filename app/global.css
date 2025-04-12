@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme {
+  --color-mint-500: oklch(0.72 0.11 178);
+}
+
+@layer components {
+  .containers {
+    @apply w-[100%] mx-auto md:max-w-[764px] lg:max-w-[1300px];
+  }
+}
