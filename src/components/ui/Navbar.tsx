@@ -5,7 +5,7 @@ import logo from "@/public/images/Logo Icon- main.svg";
 export default function Navbar() {
   return (
     <div className="  bg-white">
-      <div className=" containers  text-black flex justify-between   py-5 items-center ">
+      <div className=" containers  text-black flex justify-between   pt-5 items-center ">
         <div className="w-6">
           <Image src={logo} alt=" " />
         </div>

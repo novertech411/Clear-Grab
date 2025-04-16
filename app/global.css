@@ -1,7 +1,9 @@
 @import "tailwindcss";
 
 @theme {
-  --color-mint-500: oklch(0.72 0.11 178);
+  --color-first-green: #1cac1c; /* Jiji-inspired green */
+  --color-primary-blue: #447cf4; /* OLX-inspired blue */
+  --color-secondary-blue: #3094f8; /* Secondary blue */
 }
 
 @layer components {
